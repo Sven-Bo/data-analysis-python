@@ -1,0 +1,8 @@
+autoviz==0.0.81
+numpy==1.19.3
+openpyxl==3.0.5
+pandas==1.2.0
+pandas-profiling==2.9.0
+plotly==4.14.1
+plotly-express==0.4.1
+xlrd==2.0.1
